@@ -2,17 +2,13 @@
 
 ## О языке Python
 
-<img src="/docs/images/alisa_yandex.png" width="400px"/>
-
-<img src="/images/alisa_yandex.png" width="400px"/>
-
 ![alisa_yandex](images/alisa_yandex.png)
 
 Знакомьтесь! Это голосовой помощник Алиса. Данный сервис обрабатывает голосовые команды и генерирует связанные тексты различной сложности.
 
 Получить грамматически правильный текст Алисе удается с помощью зависимостей параметров, заложенных внутри языковой модели YaLM. Открытый исходный код проекта можно найти на [портале GitHub](https://github.com/yandex/YaLM-100B).
 
-<img src="/docs/images/yalm100.png" width="400px"/>
+![yalm100.png](images/yalm100.png)
 
 Вы могли заметить, что данная модель преимущественно написана на Python. Этому есть несколько причин:
 
@@ -47,7 +43,7 @@ print("Hello, World!")
 
 ## История названия языка
 
-<img src="/docs/images/monty.png" width="400px"/>
+![monty.png](images/monty.png)
 
 Да, как ни странно, но язык программирования Python назван не в честь змеи. Создатель языка, сотрудник голландского института математики и информатики, [Гвидо ван Россум](https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D1%83%D0%BC,_%D0%93%D0%B2%D0%B8%D0%B4%D0%BE_%D0%B2%D0%B0%D0%BD) назвал язык в честь популярного в 70-х телешоу [«Летающий цирк Монти Пайтона»](https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D1%86%D0%B8%D1%80%D0%BA_%D0%9C%D0%BE%D0%BD%D1%82%D0%B8_%D0%9F%D0%B0%D0%B9%D1%82%D0%BE%D0%BD%D0%B0).
 
@@ -72,7 +68,7 @@ print("Hello, World!")
 
 ## Программирование на Python в сервисе replit
 
-<img src="/docs/images/replit_main.png" width="400px"/>
+![replit_main.png](images/replit_main.png)
 
 Все примеры и проекты данного курса можно выполнить с использованием сервиса для совместного программирования `replit`, для работы в котором необходимо использовать браузер (например, Chrome, Safari или Mozila). Все примеры данного курса, также, можно выполнять в среде разработки или редакторе кода, однако онлайн-сервис replit выбран для упрощения работы с языком Python на начальном этапе. Следовательно, установка дополнительных программ на компьютер, кроме браузера, не требуется.
 
@@ -102,4 +98,4 @@ print(2 + 2)
 
 Подробнее о работе в сервисом `replit` вы можете посмотреть в видеоуроке.
 
-[<img src="/docs/images/scr1.png" width="400px"/>](https://www.youtube.com/watch?v=tHOyDVBxBvU&lc=UgxMvDJuce3-XnAv6Lx4AaABAg)
+[![scr1.png](images/scr1.png)](https://www.youtube.com/watch?v=tHOyDVBxBvU&lc=UgxMvDJuce3-XnAv6Lx4AaABAg)
