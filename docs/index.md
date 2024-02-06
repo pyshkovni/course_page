@@ -3,8 +3,6 @@
 **автор**: Пышков Никита Игоревич<br>
 **должность**: преподаватель РАНХиГС
 
-<a href="https://t.me/pyshkovni"><img src="./images/telegram.me.jpg" width="25px"/></a> <a href="https://vk.com/pyshkovni"><img src="./images/vk.jpg" width="25px"/></a> <a href="https://www.youtube.com/channel/UCFl8u5LGFv0UqhfP5whEoVA"><img src="./images/youtube.png" width="25px"/></a> 
-
 ## Содержание курса
 
 * [Что такое Python? Начало работы](/first_part/intro.md)
