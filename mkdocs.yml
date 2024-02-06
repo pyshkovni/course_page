@@ -2,7 +2,6 @@ site_name: Python lite
 theme:
   name: material
   features:
-    - navigation.sections
     - navigation.expand
     - toc.integrate
     - navigation.top
