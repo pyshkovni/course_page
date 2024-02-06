@@ -6,7 +6,7 @@
 
 <img src="/images/alisa_yandex.png" width="400px"/>
 
-![img](/docs/images/alisa_yandex.png)
+![alisa_yandex](/images/alisa_yandex.png)
 
 Знакомьтесь! Это голосовой помощник Алиса. Данный сервис обрабатывает голосовые команды и генерирует связанные тексты различной сложности.
 
