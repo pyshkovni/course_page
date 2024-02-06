@@ -42,7 +42,7 @@ my_favorite_songs = 'Waste a Moment, Staying\' Alive, A Sorta Fairytale, Start M
 
 Воспользуемся индексацией строки и выведем первый трек. Сложно считать индексы в ручную.
 
-```py
+```Python
 print(my_favorite_songs[0:14])
 ```
 
