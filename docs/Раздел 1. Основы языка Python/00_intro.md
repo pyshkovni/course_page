@@ -4,6 +4,7 @@
 
 <img src="/docs/images/alisa_yandex.png" width="400px"/>
 
+<img src="/images/alisa_yandex.png" width="400px"/>
 
 ![img](/docs/images/alisa_yandex.png)
 
