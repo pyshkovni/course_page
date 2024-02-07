@@ -10,12 +10,10 @@ theme:
     text: Roboto
     code: Roboto Mono
   features:
-    - navigation.tabs
+    - navigation.top
+    - navigation.sections
     - navigation.instant
     - navigation.footer
-    - navigation.expand
-    - navigation.top
-    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -40,20 +38,20 @@ theme:
       accent: light blue
 
 nav:
-  - Информация о курсе:
+  - Информация о курсе: index.md
   - Раздел 1. Основы языка Python:
-    - Что такое Python? Начало работы: 00_intro.md
-    - Типы данных. Целые числа и числа с плавающей точкой: 01_int_and_float.md
-    - Переменные. Строки: 02_vars_and_str.md
-    - Задача №1. Вывод песен из строки: 03_first_task.md
-    - Коллекции. Списки и кортежи: 04_list_and_tuples.md
-    - Задача №2. Изменение списка покупок. Форматированный вывод: 05_second_task.md
-    - Условный оператор if. Операторы цикла while и for: 06_if_while_for.md
-    - Задача №3. Словари и их свойства. Списковое включение: 07_third_task.md
-    - Функции. Свойства и параметры функций: 08_functions.md
-    - Шпаргалка по разделу 1: 09_cheatsheet.md
+    - Что такое Python? Начало работы: part_1/intro.md
+    - Типы данных. Целые числа и числа с плавающей точкой: part_1/int_and_float.md
+    - Переменные. Строки: part_1/vars_and_str.md
+    - Задача №1. Вывод песен из строки: part_1/first_task.md
+    - Коллекции. Списки и кортежи: part_1/list_and_tuples.md
+    - Задача №2. Изменение списка покупок. Форматированный вывод: part_1/second_task.md
+    - Условный оператор if. Операторы цикла while и for: part_1/if_while_for.md
+    - Задача №3. Словари и их свойства. Списковое включение: part_1/third_task.md
+    - Функции. Свойства и параметры функций: part_1/functions.md
+    - Шпаргалка по разделу 1: part_1/cheatsheet.md
   - Раздел 2. Импорт. Работа с файлами:
-    - Импорт: 01_module_and_package.md
+    - Импорт: part_2/module_and_package.md
 
 extra:
   social:
