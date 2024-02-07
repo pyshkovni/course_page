@@ -1,11 +1,19 @@
-site_name: Python lite - курс по основам программирования для вузов
+site_name: Python base
+site_description: курс по основам языка Python для вузов
 theme:
   name: material
+  icon:
+    logo: material/language-python
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
+    - navigation.tabs
+    - navigation.instant
     - navigation.footer
     - navigation.expand
-    - toc.integrate
     - navigation.top
+    - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -20,14 +28,30 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: blue
+      accent: light blue
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: blue
+      accent: light blue
+
+nav:
+  - Информация о курсе:
+  - Раздел 1. Основы языка Python:
+    - Что такое Python? Начало работы: 00_intro.md
+    - Типы данных. Целые числа и числа с плавающей точкой: 01_int_and_float.md
+    - Переменные. Строки: 02_vars_and_str.md
+    - Задача №1. Вывод песен из строки: 03_first_task.md
+    - Коллекции. Списки и кортежи: 04_list_and_tuples.md
+    - Задача №2. Изменение списка покупок. Форматированный вывод: 05_second_task.md
+    - Условный оператор if. Операторы цикла while и for: 06_if_while_for.md
+    - Задача №3. Словари и их свойства. Списковое включение: 07_third_task.md
+    - Функции. Свойства и параметры функций: 08_functions.md
+    - Шпаргалка по разделу 1: 09_cheatsheet.md
+  - Раздел 2. Импорт. Работа с файлами:
+    - Импорт: 01_module_and_package.md
 
 extra:
   social:
