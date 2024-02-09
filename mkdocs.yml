@@ -53,7 +53,8 @@ nav:
     - Функции. Свойства и параметры функций: part_1/functions.md
     - Шпаргалка по разделу 1: part_1/cheatsheet.md
   - Раздел 2. Импорт. Работа с файлами:
-    - Импорт: part_2/module_and_package.md
+    - Импорт. Работа с файлами: part_2/intro.md
+    - Способы импорта из модуля и пакетов: part_2/module_and_package.md
 
 extra:
   social:
